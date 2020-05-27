@@ -7,8 +7,9 @@
         <a href="https://github.com/carlosenciso/WRF_IGP/">www.atmcenciso.com</a><br/>
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
-
-<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}" width="200">
+<div>
+<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}" width="20">
+</div>
 
 **Resultados:**
 <div align="center">
