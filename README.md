@@ -7,13 +7,14 @@
         <a href="https://github.com/carlosenciso/WRF_IGP/">www.atmcenciso.com</a><br/>
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
+<h2>Pressure Total Derivative:</h2>
 <div align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0" width="300"> <br/><br/>
 <img src="https://render.githubusercontent.com/render/math?math=\frac{\partial P}{\partial t} = - u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}" width="300"><br/><br/>
 <img src="https://render.githubusercontent.com/render/math?math=P_{t+1} = P_{t} - [u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}]\Delta t" width="300"><br/><br/>
 </div>
 
-**Resultados:**
+<h2>Results:</h2>
 <div align="center">
 <img src="FIGs/Presure_advect_HW2_CEO.gif" width="750"/>
 </div>
