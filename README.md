@@ -8,9 +8,9 @@
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
 <div>
-<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}" width="40">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0" width="40">
 </div>
-<br />
+
 **Resultados:**
 <div align="center">
 <img src="FIGs/Presure_advect_HW2_CEO.gif" width="750"/>
