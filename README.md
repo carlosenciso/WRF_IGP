@@ -8,9 +8,9 @@
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
 <div>
-<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}" width="60">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}" width="40">
 </div>
-
+<br />
 **Resultados:**
 <div align="center">
 <img src="FIGs/Presure_advect_HW2_CEO.gif" width="750"/>
