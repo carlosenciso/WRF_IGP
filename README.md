@@ -7,9 +7,8 @@
         <a href="https://github.com/carlosenciso/WRF_IGP/">www.atmcenciso.com</a><br/>
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
 
 **Resultados:**
 <div align="center">
