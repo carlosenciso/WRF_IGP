@@ -8,7 +8,7 @@
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt}" width="200">
 
 **Resultados:**
 <div align="center">
