@@ -7,9 +7,7 @@
         <a href="https://github.com/carlosenciso/WRF_IGP/">www.atmcenciso.com</a><br/>
             @carlos.enciso.o, senamhi@cenciso</p></div>
 </div>
-<div>
-	<p><h1>$$\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0$$</h1></p>
-</div>
+<h1>$$\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0$$</h1>
 
 
 **Resultados:**
