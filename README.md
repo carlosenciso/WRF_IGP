@@ -1,6 +1,6 @@
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 150px; float: left;"> <img src="IMG/logo_IGP.png" alt="Data For Science, Inc" align="left" border="0"> </div>
-    <div style="float: left; margin-left: 10px;"> <h1>Assignment 02</h1>
+    <div style="float: left; margin-left: 10px;"> <h1>Assignments</h1>
 <h1>Modelado Numérico de la Atmósfera</h1>
         <p>Prof: Dr. Aldo Moya<br/>
         <p>Carlos Enciso Ojeda<br/>
@@ -8,7 +8,7 @@
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
+<img src="https://render.githubusercontent.com/render/math?math=>$$\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0$$">
 
 **Resultados:**
 <div align="center">
