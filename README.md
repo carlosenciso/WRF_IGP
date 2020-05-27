@@ -7,8 +7,11 @@
         <a href="https://github.com/carlosenciso/WRF_IGP/">www.atmcenciso.com</a><br/>
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
-<div>
-<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0" width="200">
+<div align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt} = \frac{\partial P}{\partial t} + u\frac{\partial P}{\partial x} + v\frac{\partial P}{\partial y} = 0" width="400">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial P}{\partial t} = - u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}" width="400">
+<img src="https://render.githubusercontent.com/render/math?math=P_{t+1} = P_{t} - [u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}]\Delta t" width="400">
+
 </div>
 
 **Resultados:**
