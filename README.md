@@ -10,8 +10,8 @@
 <h3>Pressure Total Derivative:</h3>
 <div align="center">
 <img src="https://render.githubusercontent.com/render/math?math=\frac{DP}{Dt} = \frac{\partial P}{\partial t} %2B u\frac{\partial P}{\partial x} %2B v\frac{\partial P}{\partial y} = 0" width="350"> <br/><br/>
-<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial P}{\partial t} = - u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}" width="300"><br/><br/>
-<img src="https://render.githubusercontent.com/render/math?math=P_{t+1} = P_{t} - [u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}]\Delta t" width="300"><br/><br/>
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial P}{\partial t} = - u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}" width="250"><br/><br/>
+<img src="https://render.githubusercontent.com/render/math?math=P_{t+1} = P_{t} - [u\frac{\partial P}{\partial x} - v\frac{\partial P}{\partial y}]\Delta t" width="250"><br/><br/>
 </div>
 
 <h3>Results:</h3>
