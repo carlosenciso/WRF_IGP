@@ -8,7 +8,8 @@
             @carlos.enciso.o, senamhi@cenciso</p></div>
 
 
-<img src="frac{DP}{Dt}">
+<img src="https://render.githubusercontent.com/render/math?math=>\frac{DP}{Dt}">
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
 **Resultados:**
 <div align="center">
